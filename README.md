@@ -1,7 +1,7 @@
 # Short-Term Forecast with MLOps
 This repo is a tool for structuring, transforming data science project. It is predicting short term forecast for behaviral change. The project incorporates MLOps best practices and focuses on developing models for short-term forecasting.
 
-# MLOps: MLFlow Tracker
+## MLOps: MLFlow Tracker
 
 The mlflow tracker module provides a wrapper class to simplify the use of MLFlow's tracking functionalities. It:
 
