@@ -20,7 +20,7 @@ yearly_seasonality: True
 # optional parameter
 country_holidays: None
 
-# optional parameters
+# neural prophet model
 # Turn on AR terms if a neural prophet model is needed. 
 # The default AR-Net configuration does not contain hidden layers, and is functionally identical to a classic AR model.
 # If we consider a neural network with at least one hidden layer, learning Rate matters when training a Neural Network.
