@@ -12,7 +12,7 @@ import torch
 import torch.nn.functional as F
 from torch_geometric_temporal.nn.recurrent import A3TGCN2
 
-from short_term_forecast.temporalgnn_evaluation import (
+from short_term_forecast.evaluation.temporalgnn_evaluation import (
     total_loss,
 )
 
