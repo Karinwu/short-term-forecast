@@ -13,7 +13,7 @@ from neuralprophet import NeuralProphet
 import optuna
 import pandas as pd
 
-from short_term_forecast.mlflow_tracker import (
+from short_term_forecast.model.mlflow_tracker import (
     MLFlowTracker,
 )
 import short_term_forecast.data.constants as c
