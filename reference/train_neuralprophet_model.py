@@ -1,6 +1,5 @@
 """
-Train a Neural Prophet model for forecasting day-ahead load and generation in
-the National Grid test site.
+Train a Neural Prophet model for forecasting day-ahead load and generation.
 """
 import os
 from typing import Literal, Optional, Tuple, Union
