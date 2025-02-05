@@ -20,4 +20,4 @@ The ``models/`` directory contains methodology used for forecasting the short te
 
 `NeuralProphet` is built on PyTorch and combines Neural Networks and traditional time-series algorithms, inspired by Facebook Prophet and AR-Net.
 
-`temporalgnn_model.py` includes the pytorch_lightning implementation of the A3TGN2 model (which combines graph convolutional networks (GCN) and gated recurrent units (GRU)) for training, validation, and prediction.
+`temporalgnn_model.py` includes the pytorch_lightning implementation of the A3TGN2 model which combines Graph Convolutional Networks (GCN) and temporal attention mechanisms to capture both spatial dependencie and temporal dependencies for training, validation, and prediction.
